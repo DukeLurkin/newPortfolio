@@ -50,6 +50,53 @@
   margin: 1rem;
 }
 
+.active {
+  color: #c09600;
+  padding-bottom: .5rem;
+  border-bottom: 3px solid #c09600;
+}
+
+.mobMenu {
+    display: none;
+    object-fit: cover;
+    height: 2rem;
+}
+
+.navMenu {
+  position: absolute;
+  top: 6rem;
+  right: 2rem;
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+  height: fit-content;
+  min-width: 10rem;
+  background: rgb(40,40,40);
+  border-radius: 1rem;
+}
+
+.listItem {
+  color: white;
+  padding: 0.5rem, 3rem;
+  margin: 0.25rem;
+  background: rgb(30,30,30);
+  
+}
+
+@media screen and (max-width: 720px) {
+    .mobMenu {
+        display: flex;
+    }
+    .desktopMenu {
+        display: none;
+    }
+    .desktopMenuBtn {
+        display: none;
+    }
+  
+}
+
 
 
 
