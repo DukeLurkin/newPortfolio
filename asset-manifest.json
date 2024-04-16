@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/newPortfolio/static/css/main.b04fa4be.css",
+    "main.js": "/newPortfolio/static/js/main.c3dcf75d.js",
+    "static/media/LukeHeadshotLeft.png": "/newPortfolio/static/media/LukeHeadshotLeft.790e29385ea2ba96bc81.png",
+    "static/media/resumeDevIntern.pdf": "/newPortfolio/static/media/resumeDevIntern.963653fcb8ccbfedb144.pdf",
+    "static/media/tourMarketingResume2024.pdf": "/newPortfolio/static/media/tourMarketingResume2024.4cbd0de9648255d820ab.pdf",
+    "static/media/bigLogo.png": "/newPortfolio/static/media/bigLogo.d01c5f64fccbea694a57.png",
+    "static/media/weatherApp.png": "/newPortfolio/static/media/weatherApp.e544677915252f33fa9b.png",
+    "static/media/noteTaker.png": "/newPortfolio/static/media/noteTaker.9a0bb8219bf3c33c7035.png",
+    "static/media/ecommerce.png": "/newPortfolio/static/media/ecommerce.b768fece35bff81e9394.png",
+    "static/media/stableCoinLogo.png": "/newPortfolio/static/media/stableCoinLogo.391e69f8e23ea8e940ba.png",
+    "static/media/ethLotteryNew.png": "/newPortfolio/static/media/ethLotteryNew.027df2dc9556c1abe6bb.png",
+    "static/media/quizIcon.png": "/newPortfolio/static/media/quizIcon.787b3c4725ef599873bd.png",
+    "static/media/ethRainbow.png": "/newPortfolio/static/media/ethRainbow.61f19c670adb4a6ec6c1.png",
+    "static/media/ethTokenLogo.png": "/newPortfolio/static/media/ethTokenLogo.7708697ad55988debcd9.png",
+    "static/media/ethNFTLogo.png": "/newPortfolio/static/media/ethNFTLogo.a45a49f07d86e8dd0aba.png",
+    "static/media/bucketList.png": "/newPortfolio/static/media/bucketList.fc854345037d1211a3d4.png",
+    "static/media/ui-design.png": "/newPortfolio/static/media/ui-design.c4acd455fc2040eddcc8.png",
+    "index.html": "/newPortfolio/index.html",
+    "main.b04fa4be.css.map": "/newPortfolio/static/css/main.b04fa4be.css.map",
+    "main.c3dcf75d.js.map": "/newPortfolio/static/js/main.c3dcf75d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b04fa4be.css",
+    "static/js/main.c3dcf75d.js"
+  ]
+}
